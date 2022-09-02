@@ -1,16 +1,8 @@
-# authentification
+# authentication
 
-A new Flutter project.
+This app is about email/password authentication.
+I work with flutter as framework and firebase as a database.
 
-## Getting Started
+Here's a video explains how the app works:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://www.linkedin.com/posts/oussama-khlifi-ab54b0166_flutter-firebase-email-activity-6943514159338672129-OuC7?utm_source=share&utm_medium=member_desktop)
